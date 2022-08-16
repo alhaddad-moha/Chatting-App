@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorNewPrimary"
+    tools:context=".StartActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="297dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="53dp"
+        android:layout_marginBottom="31dp"
+        app:srcCompat="@drawable/start_img"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/start_panel">
+z
+        <Button
+            android:id="@+id/register"
+            android:layout_width="150dp"
+            android:layout_height="55dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="45dp"
+            android:layout_marginEnd="35dp"
+            android:background="@drawable/btn_secondary"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="REGISTER"
+            android:textColor="@color/colorNewAccent"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:transitionName="myRegister" />
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="150dp"
+            android:layout_height="55dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="45dp"
+            android:background="@drawable/btn_primary"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="LOGIN"
+            android:textColor="@color/colorNewAccent"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:transitionName="myLogin" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="193dp"
+        android:fontFamily="@font/montserrat"
+        android:text="FRIENDS CHAT"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

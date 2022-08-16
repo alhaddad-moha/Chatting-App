@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "798708714044",
+    "firebase_url": "https://chating-84074-default-rtdb.firebaseio.com",
+    "project_id": "chating-84074",
+    "storage_bucket": "chating-84074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798708714044:android:6ed8e80e2a99c651dad139",
+        "android_client_info": {
+          "package_name": "com.android.chats_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798708714044-itm944jtqplv7kulf3ii78a0f9fcnsba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAH7DJFQuoH1qpXS2kfRT-aRsQ4AjqVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798708714044-itm944jtqplv7kulf3ii78a0f9fcnsba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798708714044:android:a9775b6e1ad019b6dad139",
+        "android_client_info": {
+          "package_name": "com.dvlnitins.friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798708714044-itm944jtqplv7kulf3ii78a0f9fcnsba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAH7DJFQuoH1qpXS2kfRT-aRsQ4AjqVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798708714044-itm944jtqplv7kulf3ii78a0f9fcnsba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798708714044:android:d574e62d60341583dad139",
+        "android_client_info": {
+          "package_name": "com.hell.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798708714044-itm944jtqplv7kulf3ii78a0f9fcnsba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAH7DJFQuoH1qpXS2kfRT-aRsQ4AjqVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798708714044-itm944jtqplv7kulf3ii78a0f9fcnsba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
